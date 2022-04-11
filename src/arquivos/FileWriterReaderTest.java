@@ -9,7 +9,6 @@ public class FileWriterReaderTest {
     
     public static void main(String[] args) {
 
-        int numTeste = 10;
         File arquivo = new File("Arquivo.txt");
 
         /* cria um "escritor" que será usado para escrever no arquivo
